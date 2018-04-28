@@ -1,2 +1,2 @@
-# moonspeaking.github.io
+# Moonspeaking.github.io
 Тестирование плавной прокрутки
