@@ -10,7 +10,7 @@
 body {
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 	overflow: scroll;
-	background-image: url(images/Code.jpg);
+	background-image: url(../image/Code.jpg);
 }
 /*
 button {
