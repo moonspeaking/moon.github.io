@@ -12,11 +12,6 @@ body {
 	overflow: scroll;
 	background-image: url(../image/Code.jpg);
 }
-/*
-button {
--moz-border-radius:  4px; /* Firefox *//*
-border-radius:  4px; /* IE 9, Safari 5, Chrome *//*
-width: 10%} */
 
 main {
 	position: fixed;
