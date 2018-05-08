@@ -1,0 +1,43 @@
+div#content{
+	margin: 0 268px;
+}
+
+div#contentright{
+	margin: 0pt 200pt 0pt 0pt;
+}
+
+div#contentleft{
+	margin: 0pt 0 0pt 200pt;
+}
+
+div#leftcontainer{
+	background: #ffffff;
+	float:left;
+	width:244px;
+	margin-left:-986px;
+	margin-top: 5px;
+}
+
+div#leftcontainer2{
+	background: #cbd09f;
+	float:left;
+	width:244px;
+	margin-left:-986px;
+	margin-top: 5px;
+}
+
+div#rightcontainer{
+	background: #cbd09f;
+	float:left;
+	width:244px;
+	margin-left:-262px;
+	margin-top: 5px;
+}
+
+div#rightcontainer2{
+	background: #cbd09f;
+	float:left;
+	width:244px;
+	margin-left:-262px;
+	margin-top: 5px;
+}
