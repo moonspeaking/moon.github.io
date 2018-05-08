@@ -1,0 +1,175 @@
+/********************** Mainmenu styling starts ************************/
+
+.menu{
+
+	margin:0px 15px;
+	padding:0px;
+	list-style: none;
+
+}
+
+.menu li{
+
+	padding: 0px;
+	margin: 0px;
+
+
+}
+
+.menu li a{
+	background: url(../images/arrow_menu.png) no-repeat 0px 12px;	
+	padding: 5px;
+	margin: 0px;
+	text-indent: 10px;
+	border-bottom: 1px dashed #7f8b2d;
+	display:block;
+
+}
+
+.menu li a:link, .menu li a:visited{
+	color: #5a5f1a;
+	text-decoration: none;
+}
+
+.menu li a:hover, .menu li a:active{
+	color: #fff;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.menu li ul{
+
+	margin:0px 0px 0px 15px;
+	padding:0px;
+	list-style: none;
+	
+}
+
+
+
+#horiz-menu li:hover, #horiz-menu li.sfHover {
+
+	background: #62699c /*b58200*/
+
+}
+#horiz-menu ul li {
+	float:left;
+	height:26px;
+	padding:0pt 0px;
+}
+
+#horiz-menu li {
+
+}
+
+#horiz-menu li {
+	display:block;
+	float:left;
+	margin:0pt 0px 0pt 0pt;
+	padding:0pt;
+}
+
+
+#horiz-menu ul {
+	list-style-image:none;
+	list-style-position:outside;
+	list-style-type:none;
+}
+
+#horiz-menu li a {
+	background:transparent url(../images/seperator_menu.gif) no-repeat scroll 100% 50%;
+}
+
+#horiz-menu a, #horiz-menu a:active, #horiz-menu a:hover {
+
+}
+
+#horiz-menu ul ul li a, #horiz-menu ul li.active.parent ul a, #horiz-menu ul li.parent ul a {
+	background:transparent url(../images/dropdown-arrow.gif) no-repeat scroll 10px 65%;
+	padding-left:10px;
+}
+div#horiz-menu li li a, div#horiz-menu li.active li a {
+	background:transparent none repeat scroll 0% 0%;
+	display:block;
+	float:none;
+	height:26px;
+	line-height:30px;
+	margin:0pt;
+	padding:0pt;
+	text-decoration:none;
+	text-indent:18px;
+	width:98%;
+}
+#horiz-menu ul ul li a, #horiz-menu ul li.active.parent ul a, #horiz-menu ul li.parent ul a {
+	background:transparent url(../images/dropdown-arrow.gif) no-repeat scroll 10px 65%;
+	padding-left:10px;
+}
+#horiz-menu li li.active, #horiz-menu li.active li a, #horiz-menu li.active li a:hover {
+	background:transparent none repeat scroll 0% 0%;
+}
+#horiz-menu li.active a {
+	
+}
+div#horiz-menu li li a, div#horiz-menu li.active li a {
+	background:transparent none repeat scroll 0% 0%;
+	display:block;
+	float:none;
+	height:26px;
+	line-height:30px;
+	margin:0pt;
+	padding:0pt;
+	text-decoration:none;
+	text-indent:18px;
+	width:98%;
+}
+#horiz-menu ul ul li a, #horiz-menu ul li.active.parent ul a, #horiz-menu ul li.parent ul a {
+	background:transparent url(../images/dropdown-arrow.gif) no-repeat scroll 10px 65%;
+	padding-left:10px;
+}
+#horiz-menu li li a {
+	background:transparent none repeat scroll 0% 0%;
+	border:medium none;
+	color:#FFFFFF;
+	font-weight:normal;
+}
+#horiz-menu li a {
+	background:transparent url(../images/seperator_menu.gif) no-repeat scroll 100% 50%;
+}
+#horiz-menu a, #horiz-menu a:active, #horiz-menu a:hover {
+
+}
+#horiz-menu a {
+	color:#efefef; /*fff*/
+	font-size:100%;
+	font-weight:bold;
+	line-height:25px;
+	margin-left:15px;
+	margin-right:10px; /*Eddy comment - otstup v menu*/
+	margin-top:6px;
+	text-decoration:none;
+	white-space:nowrap;
+}
+
+#horiz-menu ul {
+	list-style-image:none;
+	list-style-position:outside;
+	list-style-type:none;
+}
+
+
+#horiz-menu li.active {
+	font-weight:bold;
+	background: #62699c;/*b58200*/
+}
+
+#horiz-menu ul ul {
+	background:#31366a none repeat scroll 0% 0%; /*CBA200*/
+}
+
+#horiz-menu ul {
+	list-style-image:none;
+	list-style-position:outside;
+	list-style-type:none;
+	margin:0pt;
+	padding:0pt;
+}
