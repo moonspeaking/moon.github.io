@@ -1,8 +1,3 @@
-#horiz-menu ul {
-	list-style-image:none;
-	list-style-position:outside;
-	list-style-type:none;
-}
 
 #horiz-menu li a {
 	background:transparent url(../images/seperator_menu.gif) no-repeat scroll 100% 50%;
