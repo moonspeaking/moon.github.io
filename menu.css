@@ -1,10 +1,4 @@
 
-
-#horiz-menu li:hover, #horiz-menu li.sfHover {
-
-	background: #62699c /*b58200*/
-
-}
 #horiz-menu ul li {
 	float:left;
 	height:26px;
