@@ -1,11 +1,4 @@
 
-}
-#horiz-menu li li a {
-	background:transparent none repeat scroll 0% 0%;
-	border:medium none;
-	color:#FFFFFF;
-	font-weight:normal;
-}
 #horiz-menu li a {
 	background:transparent url(../images/seperator_menu.gif) no-repeat scroll 100% 50%;
 }
