@@ -1,17 +1,4 @@
 
-}
-div#horiz-menu li li a, div#horiz-menu li.active li a {
-	background:transparent none repeat scroll 0% 0%;
-	display:block;
-	float:none;
-	height:26px;
-	line-height:30px;
-	margin:0pt;
-	padding:0pt;
-	text-decoration:none;
-	text-indent:18px;
-	width:98%;
-}
 #horiz-menu ul ul li a, #horiz-menu ul li.active.parent ul a, #horiz-menu ul li.parent ul a {
 	background:transparent url(../images/dropdown-arrow.gif) no-repeat scroll 10px 65%;
 	padding-left:10px;
