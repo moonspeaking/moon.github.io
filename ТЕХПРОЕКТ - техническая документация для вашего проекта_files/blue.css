@@ -1,11 +1,4 @@
 
-/* Toggler tab */
-.pwebcontact_toggler.pweb-toggler-blue {
-	color: #fff;
-	text-shadow: 0 -1px 0 rgba(0,0,0,0.25);
-	border: 1px solid;
-	border-color: #0044cc #0044cc #002a80;
-	border-color: rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25);
 	
 	background-color: #0044cc;
 	background-image: -moz-linear-gradient(top,#08c,#0044cc);
