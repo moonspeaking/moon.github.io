@@ -1,6 +1,5 @@
 \
-	background-image: -webkit-gradient(linear,0 100%,0 0,from(#08c),to(#0044cc));
-	background-image: -webkit-linear-gradient(bottom,#08c,#0044cc);
+	background-imag
 	background-image: -o-linear-gradient(bottom,#08c,#0044cc);
 	background-image: linear-gradient(to top,#08c,#0044cc);
 }
