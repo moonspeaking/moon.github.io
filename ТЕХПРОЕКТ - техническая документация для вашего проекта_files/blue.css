@@ -1,7 +1,6 @@
 
 .pweb-vertical.pweb-left .pwebcontact_toggler.pweb-toggler-blue {
-	border-color: #0044cc #0044cc #0044cc #002a80;
-	border-color: rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25);
+	border-color: #0044cc #0044cc
 	
 	background-image: -moz-linear-gradient(right,#08c,#0044cc);
 	background-image: -ms-linear-gradient(right,#08c, #0044cc);
