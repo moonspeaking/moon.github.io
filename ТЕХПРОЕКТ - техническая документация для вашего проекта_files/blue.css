@@ -1,6 +1,4 @@
-	
-	background-image: -moz-linear-gradient(bottom,#08c,#0044cc);
-	background-image: -ms-linear-gradient(bottom,#08c, #0044cc);
+\
 	background-image: -webkit-gradient(linear,0 100%,0 0,from(#08c),to(#0044cc));
 	background-image: -webkit-linear-gradient(bottom,#08c,#0044cc);
 	background-image: -o-linear-gradient(bottom,#08c,#0044cc);
