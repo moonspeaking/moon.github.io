@@ -1,7 +1,4 @@
 
-	background-image: -webkit-gradient(linear,100% 0,0 0,from(#08c),to(#0044cc));
-	background-image: -webkit-linear-gradient(right,#08c,#0044cc);
-	background-image: -o-linear-gradient(right,#08c,#0044cc);
 	background-image: linear-gradient(to left,#08c,#0044cc);
 }
 .pweb-vertical.pweb-right .pwebcontact_toggler.pweb-toggler-blue {
