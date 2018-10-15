@@ -1,0 +1,10 @@
+﻿table {
+width: 100%; 
+height: 10%;
+}
+td {
+text-align: center; /* Выравнивание justify не работает, используем Center */ 
+font-family: Arial, Helvetica, Verdana, sans-serif; /* Гарнитура шрифта */ 
+font-size: 114%; /* Размер текста */ 
+    
+}
