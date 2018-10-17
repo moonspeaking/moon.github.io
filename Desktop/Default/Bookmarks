@@ -1,0 +1,1121 @@
+{
+   "checksum": "cabd11b57516d16919757f288fbc009d",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13180015829694714",
+               "id": "7",
+               "meta_info": {
+                  "Description": "Vivaldi, браузер",
+                  "Thumbnail": "/resources/sd_vivaldi.png",
+                  "last_visited_desktop": "13180015907843506"
+               },
+               "name": "Vivaldi",
+               "type": "url",
+               "url": "https://vivaldi.com/"
+            }, {
+               "date_added": "13180015829786714",
+               "id": "8",
+               "meta_info": {
+                  "Description": "Vivaldi, браузер, портал, сообщество",
+                  "Thumbnail": "/resources/sd_vivaldi_community.gif"
+               },
+               "name": "Сообщество Vivaldi",
+               "type": "url",
+               "url": "https://vivaldi.net/ru/"
+            }, {
+               "date_added": "13180015829790714",
+               "id": "9",
+               "meta_info": {
+                  "Description": "Поиск, новости, пробки, погода, почта",
+                  "Thumbnail": "/resources/sd_ru_yandex.png"
+               },
+               "name": "Яндекс",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/yandex-ru"
+            }, {
+               "date_added": "13180015829794714",
+               "id": "10",
+               "meta_info": {
+                  "Description": "путешествия, отели, бронирование",
+                  "Thumbnail": "/resources/sd_booking.com.png"
+               },
+               "name": "Booking.com",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/bookingcom-ru"
+            }, {
+               "date_added": "13180015829796714",
+               "id": "11",
+               "meta_info": {
+                  "Description": "купить, все товары, доставка",
+                  "Thumbnail": "/resources/sd_aliexpress.png"
+               },
+               "name": "AliExpress",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/aliexpresscom"
+            }, {
+               "date_added": "13180015829799714",
+               "id": "12",
+               "meta_info": {
+                  "Description": "купить, аукцион, все товары",
+                  "Thumbnail": "/resources/sd_ebay.png"
+               },
+               "name": "eBay",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/ebay-en-us"
+            }, {
+               "date_added": "13180015829801714",
+               "id": "13",
+               "meta_info": {
+                  "Description": "купить, доставка, все товары",
+                  "Thumbnail": "/resources/sd_amazon.png",
+                  "last_visited_desktop": "13182441231362631"
+               },
+               "name": "Amazon",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/amazon"
+            }, {
+               "date_added": "13180015829804714",
+               "id": "14",
+               "meta_info": {
+                  "Description": "путешествия",
+                  "Thumbnail": "/resources/sd_expedia.png"
+               },
+               "name": "Expedia",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/expedia"
+            }, {
+               "date_added": "13180015829809714",
+               "id": "15",
+               "meta_info": {
+                  "Description": "отели, рейтинг, отзывы, гостиницы",
+                  "Thumbnail": "/resources/sd_tripadvisor.png"
+               },
+               "name": "TripAdvisor",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/tripadvisor-world"
+            }, {
+               "date_added": "13180015829812714",
+               "id": "16",
+               "meta_info": {
+                  "Description": "путешествия, авиабилеты",
+                  "Thumbnail": "/resources/sd_kayak.png"
+               },
+               "name": "KAYAK",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/kayak-ru"
+            }, {
+               "date_added": "13180015829816714",
+               "id": "17",
+               "meta_info": {
+                  "Description": "книги, электроника, купить",
+                  "Thumbnail": "/resources/sd_ru_ozon.png"
+               },
+               "name": "OZON.ru",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/ozonru-ru"
+            }, {
+               "date_added": "13180015829819714",
+               "id": "18",
+               "meta_info": {
+                  "Description": "портал, стартовая страница",
+                  "Thumbnail": "/resources/sd_startme.png"
+               },
+               "name": "start.me",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/startme-en-us"
+            }, {
+               "date_added": "13180015829822714",
+               "id": "19",
+               "meta_info": {
+                  "Description": "Общение, социальная сеть",
+                  "Thumbnail": "/resources/sd_vk.png"
+               },
+               "name": "ВКонтакте",
+               "type": "url",
+               "url": "https://vk.com/"
+            }, {
+               "date_added": "13180015829826714",
+               "id": "20",
+               "meta_info": {
+                  "Description": "Общение, социальная сеть",
+                  "Thumbnail": "/resources/sd_twitter.png"
+               },
+               "name": "Твиттер",
+               "type": "url",
+               "url": "https://twitter.com/"
+            }, {
+               "date_added": "13180015829830714",
+               "id": "21",
+               "meta_info": {
+                  "Description": "Энциклопедия, информация, факты",
+                  "Thumbnail": "/resources/sd_wikipedia.png",
+                  "last_visited_desktop": "13182603393029255"
+               },
+               "name": "Википедия",
+               "type": "url",
+               "url": "https://ru.wikipedia.org/"
+            }, {
+               "children": [ {
+                  "date_added": "13180015829836714",
+                  "id": "23",
+                  "meta_info": {
+                     "Description": "Блог, IT, информационные технологии, программирование",
+                     "Thumbnail": "/resources/sd_habrahabr.png"
+                  },
+                  "name": "Хабрахабр",
+                  "type": "url",
+                  "url": "http://habrahabr.ru/"
+               }, {
+                  "date_added": "13180015829839714",
+                  "id": "24",
+                  "meta_info": {
+                     "Description": "Новости, Россия, мир",
+                     "Thumbnail": "/resources/sd_ru_tass.png"
+                  },
+                  "name": "ТАСС",
+                  "type": "url",
+                  "url": "http://itar-tass.com/"
+               }, {
+                  "date_added": "13180015829842714",
+                  "id": "25",
+                  "meta_info": {
+                     "Description": "Новости, Россия, мир",
+                     "Thumbnail": "/resources/sd_ru_interfax.png"
+                  },
+                  "name": "Интерфакс",
+                  "type": "url",
+                  "url": "http://www.interfax.ru/"
+               }, {
+                  "date_added": "13180015829845714",
+                  "id": "26",
+                  "meta_info": {
+                     "Description": "Новости, Россия, мир",
+                     "Thumbnail": "/resources/sd_ru_lenta.png"
+                  },
+                  "name": "Lenta.ru",
+                  "type": "url",
+                  "url": "http://lenta.ru/"
+               }, {
+                  "date_added": "13180015829848714",
+                  "id": "27",
+                  "meta_info": {
+                     "Description": "IT, новости, обзоры, статьи, гаджеты, программы, приложения, ретроигры",
+                     "Thumbnail": "/resources/sd_ru_itkvariat.png"
+                  },
+                  "name": "ITквариат",
+                  "type": "url",
+                  "url": "https://vivaldi.com/bk/it-ru"
+               } ],
+               "date_added": "13180015829833714",
+               "date_modified": "13180015829848714",
+               "id": "22",
+               "name": "Новости",
+               "type": "folder"
+            } ],
+            "date_added": "13180015829676714",
+            "date_modified": "13180015829833714",
+            "id": "6",
+            "meta_info": {
+               "Speeddial": "true"
+            },
+            "name": "Экспресс-панель",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13180015829855714",
+               "id": "29",
+               "meta_info": {
+                  "Description": "обзоры, компьютеры, программы, новости"
+               },
+               "name": "PC Magazine",
+               "type": "url",
+               "url": "http://pcmag.ru/"
+            }, {
+               "date_added": "13180015829858714",
+               "id": "30",
+               "meta_info": {
+                  "Description": "мобильные устройства, обзоры, новости",
+                  "last_visited_desktop": "13182605719097047"
+               },
+               "name": "4PDA",
+               "type": "url",
+               "url": "http://4pda.ru/"
+            }, {
+               "date_added": "13180015829862714",
+               "id": "31",
+               "meta_info": {
+                  "Description": "новости, обзоры, софт, железо"
+               },
+               "name": "3DNews",
+               "type": "url",
+               "url": "http://www.3dnews.ru/"
+            }, {
+               "date_added": "13180015829866714",
+               "id": "32",
+               "meta_info": {
+                  "Description": "новости, обзоры, железо"
+               },
+               "name": "Ferra.ru",
+               "type": "url",
+               "url": "http://www.ferra.ru/"
+            }, {
+               "date_added": "13180015829869714",
+               "id": "33",
+               "meta_info": {
+                  "Description": "новости, обзоры, софт, программы"
+               },
+               "name": "OsZone",
+               "type": "url",
+               "url": "http://www.oszone.net/"
+            }, {
+               "date_added": "13180015829872714",
+               "id": "34",
+               "meta_info": {
+                  "Description": "свободное ПО, Linux, новости"
+               },
+               "name": "OpenNet",
+               "type": "url",
+               "url": "http://www.opennet.ru/"
+            }, {
+               "date_added": "13180015829876714",
+               "id": "35",
+               "meta_info": {
+                  "Description": "обзоры, новости, технологии, железо"
+               },
+               "name": "iXBT.com",
+               "type": "url",
+               "url": "http://www.ixbt.com/"
+            }, {
+               "date_added": "13180015829879714",
+               "id": "36",
+               "meta_info": {
+                  "Description": "новости, программы, игры, фильмы, видео, юмор"
+               },
+               "name": "NoNaMe",
+               "type": "url",
+               "url": "http://nnm.me/"
+            }, {
+               "date_added": "13180015829883714",
+               "id": "37",
+               "meta_info": {
+                  "Description": "технологии, интернет"
+               },
+               "name": "Поиск доменных имен | GoDaddy RU",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/godaddy"
+            } ],
+            "date_added": "13180015829852714",
+            "date_modified": "13180015829883714",
+            "id": "28",
+            "name": "Технологии",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13180015829890714",
+               "id": "39",
+               "meta_info": {
+                  "Description": "Бесплатно, онлайн игры, флэш"
+               },
+               "name": "RBK Games",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/rbkgames-ru"
+            }, {
+               "date_added": "13180015829893714",
+               "id": "40",
+               "meta_info": {
+                  "Description": "Бесплатно, онлайн игры, флэш"
+               },
+               "name": "Игры Алавар",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/alawar-ru"
+            }, {
+               "date_added": "13180015829896714",
+               "id": "41",
+               "meta_info": {
+                  "Description": "игры, портал, новости игр"
+               },
+               "name": "GamersGate - Покупайте и скачивайте PC-игры!",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/gamersgate"
+            }, {
+               "date_added": "13180015829900714",
+               "id": "42",
+               "meta_info": {
+                  "Description": "Бесплатно, онлайн игры, флэш"
+               },
+               "name": "Stop Game",
+               "type": "url",
+               "url": "http://stopgame.ru/"
+            }, {
+               "date_added": "13180015829904714",
+               "id": "43",
+               "meta_info": {
+                  "Description": "Бесплатно, онлайн игры, флэш"
+               },
+               "name": "OnlineGuru",
+               "type": "url",
+               "url": "http://onlineguru.ru/"
+            }, {
+               "date_added": "13180015829908714",
+               "id": "44",
+               "meta_info": {
+                  "Description": "Бесплатно, онлайн игры, флэш"
+               },
+               "name": "Флеш игры",
+               "type": "url",
+               "url": "http://caniplay.ru/"
+            }, {
+               "date_added": "13180015829912714",
+               "id": "45",
+               "meta_info": {
+                  "Description": "Бесплатно, онлайн игры, флэш"
+               },
+               "name": "Game01.ru",
+               "type": "url",
+               "url": "http://www.game01.ru/"
+            }, {
+               "date_added": "13180015829916714",
+               "id": "46",
+               "meta_info": {
+                  "Description": "игры, портал, новости игр"
+               },
+               "name": "Игровой портал AG.ru",
+               "type": "url",
+               "url": "http://www.ag.ru/"
+            }, {
+               "date_added": "13180015829919714",
+               "id": "47",
+               "meta_info": {
+                  "Description": "игры, коды, прохождения игр, читы"
+               },
+               "name": "ИГРОМАНИЯ",
+               "type": "url",
+               "url": "http://www.igromania.ru/"
+            }, {
+               "date_added": "13180015829922714",
+               "id": "48",
+               "meta_info": {
+                  "Description": "игры, новинки, игровые обзоры"
+               },
+               "name": "Gamebomb.ru",
+               "type": "url",
+               "url": "http://gamebomb.ru/"
+            }, {
+               "date_added": "13180015829926714",
+               "id": "49",
+               "meta_info": {
+                  "Description": "игры, онлайн игры, браузерные игры"
+               },
+               "name": "Gamer.ru",
+               "type": "url",
+               "url": "http://www.gamer.ru/"
+            }, {
+               "date_added": "13180015829932714",
+               "id": "50",
+               "meta_info": {
+                  "Description": "новости игр, игры, обзоры"
+               },
+               "name": "GoHa.Ru: Все новости",
+               "type": "url",
+               "url": "http://www.goha.ru/"
+            } ],
+            "date_added": "13180015829887714",
+            "date_modified": "13180015829932714",
+            "id": "38",
+            "name": "Игры",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13180015829944714",
+               "id": "52",
+               "meta_info": {
+                  "Description": "новости, политика, искусство, культура, финансы"
+               },
+               "name": "РИА Новости",
+               "type": "url",
+               "url": "http://ria.ru/"
+            }, {
+               "date_added": "13180015829948714",
+               "id": "53",
+               "meta_info": {
+                  "Description": "новости, политика, искусство, культура, финансы"
+               },
+               "name": "Новости KP.RU",
+               "type": "url",
+               "url": "http://www.kp.ru/"
+            }, {
+               "date_added": "13180015829951714",
+               "id": "54",
+               "meta_info": {
+                  "Description": "новости, политика, искусство, культура, финансы"
+               },
+               "name": "Главные новости дня - Газета.Ru",
+               "type": "url",
+               "url": "http://www.gazeta.ru/"
+            }, {
+               "date_added": "13180015829954714",
+               "id": "55",
+               "meta_info": {
+                  "Description": "новости, политика, искусство, культура, финансы"
+               },
+               "name": "Вести.Ru: новости, видео и фото дня",
+               "type": "url",
+               "url": "http://www.vesti.ru/"
+            }, {
+               "date_added": "13180015829958714",
+               "id": "56",
+               "meta_info": {
+                  "Description": "новости, политика, искусство, культура, финансы"
+               },
+               "name": "Российская газета",
+               "type": "url",
+               "url": "http://www.rg.ru/"
+            }, {
+               "date_added": "13180015829961714",
+               "id": "57",
+               "meta_info": {
+                  "Description": "новости, политика, искусство, культура, финансы"
+               },
+               "name": "Издательский дом Коммерсантъ",
+               "type": "url",
+               "url": "http://kommersant.ru/"
+            }, {
+               "date_added": "13180015829964714",
+               "id": "58",
+               "meta_info": {
+                  "Description": "новости, политика, искусство, культура, финансы"
+               },
+               "name": "Аргументы и Факты",
+               "type": "url",
+               "url": "http://www.aif.ru/"
+            } ],
+            "date_added": "13180015829940714",
+            "date_modified": "13180015829964714",
+            "id": "51",
+            "name": "Новости",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13180015829977714",
+               "id": "60",
+               "meta_info": {
+                  "Description": "объявления, купить, продать"
+               },
+               "name": "Доска бесплатных объявлений",
+               "type": "url",
+               "url": "https://www.avito.ru/"
+            }, {
+               "date_added": "13180015830100714",
+               "id": "61",
+               "meta_info": {
+                  "Description": "купить, все товары"
+               },
+               "name": "Портал выгодных покупок BLIZKO.ru",
+               "type": "url",
+               "url": "http://www.blizko.ru/"
+            }, {
+               "date_added": "13180015830173714",
+               "id": "62",
+               "meta_info": {
+                  "Description": "объявления, купить, продать"
+               },
+               "name": "Из рук в руки",
+               "type": "url",
+               "url": "http://irr.ru/"
+            }, {
+               "date_added": "13180015830178714",
+               "id": "63",
+               "meta_info": {
+                  "Description": "спорттовары, купить, спорт"
+               },
+               "name": "Спортмастер - сеть спортивных магазинов.",
+               "type": "url",
+               "url": "http://www.sportmaster.ru/"
+            }, {
+               "date_added": "13180015830181714",
+               "id": "64",
+               "meta_info": {
+                  "Description": "инструменты, электроинструменты, купить"
+               },
+               "name": "Электроинструмент",
+               "type": "url",
+               "url": "http://www.vseinstrumenti.ru/"
+            }, {
+               "date_added": "13180015830185714",
+               "id": "65",
+               "meta_info": {
+                  "Description": "электроинструменты, купить"
+               },
+               "name": "Интернет магазин 220 Вольт",
+               "type": "url",
+               "url": "http://www.220-volt.ru/"
+            } ],
+            "date_added": "13180015829968714",
+            "date_modified": "13180015830185714",
+            "id": "59",
+            "name": "Магазины",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13180015830193714",
+               "id": "67",
+               "meta_info": {
+                  "Description": "спорт, новости, результаты, видео"
+               },
+               "name": "Новости спорта",
+               "type": "url",
+               "url": "http://news.sportbox.ru/"
+            }, {
+               "date_added": "13180015830197714",
+               "id": "68",
+               "meta_info": {
+                  "Description": "спорт, новости, результаты, видео"
+               },
+               "name": "Чемпионат.com: новости спорта",
+               "type": "url",
+               "url": "http://www.championat.com/"
+            }, {
+               "date_added": "13180015830200714",
+               "id": "69",
+               "meta_info": {
+                  "Description": "евроспорт, спорт, новости, результаты, видео"
+               },
+               "name": "Новости спорта на канале Eurosport",
+               "type": "url",
+               "url": "http://www.eurosport.ru/"
+            }, {
+               "date_added": "13180015830203714",
+               "id": "70",
+               "meta_info": {
+                  "Description": "спорт, новости, результаты, видео"
+               },
+               "name": "Новости спорта на Sports.ru",
+               "type": "url",
+               "url": "http://www.sports.ru/"
+            }, {
+               "date_added": "13180015830207714",
+               "id": "71",
+               "meta_info": {
+                  "Description": "спорт, новости, результаты, видео"
+               },
+               "name": "Ежедневная спортивная газета.",
+               "type": "url",
+               "url": "http://www.sport-express.ru/"
+            }, {
+               "date_added": "13180015830211714",
+               "id": "72",
+               "meta_info": {
+                  "Description": "спорт, футбол, новости, результаты, видео"
+               },
+               "name": "Футбол, чемпионат России онлайн.",
+               "type": "url",
+               "url": "http://soccer.ru/"
+            }, {
+               "date_added": "13180015830214714",
+               "id": "73",
+               "meta_info": {
+                  "Description": "спорт, гонки, формула 1, новости, результаты"
+               },
+               "name": "Формула 1 на F1news.ru",
+               "type": "url",
+               "url": "http://www.f1news.ru/"
+            }, {
+               "date_added": "13180015830218714",
+               "id": "74",
+               "meta_info": {
+                  "Description": "спорт, новости, результаты, видео"
+               },
+               "name": "Все спортивные новости",
+               "type": "url",
+               "url": "http://www.sovsport.ru/"
+            }, {
+               "date_added": "13180015830222714",
+               "id": "75",
+               "meta_info": {
+                  "Description": "спорт, хоккей, новости, результаты, видео"
+               },
+               "name": "Континентальная хоккейная лига",
+               "type": "url",
+               "url": "http://www.khl.ru/"
+            }, {
+               "date_added": "13180015830226714",
+               "id": "76",
+               "meta_info": {
+                  "Description": "спорт, футбол, новости, результаты, видео"
+               },
+               "name": "Футбольные онлайн трансляции",
+               "type": "url",
+               "url": "http://gooool.org/"
+            } ],
+            "date_added": "13180015830189714",
+            "date_modified": "13180015830226714",
+            "id": "66",
+            "name": "Спорт",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13180015830233714",
+               "id": "78",
+               "meta_info": {
+                  "Description": "сайты, города"
+               },
+               "name": "Группа компаний RUgion",
+               "type": "url",
+               "url": "http://rugion.ru/"
+            }, {
+               "date_added": "13180015830236714",
+               "id": "79",
+               "meta_info": {
+                  "Description": "карты, поиск, адреса, города"
+               },
+               "name": "Карты городов России",
+               "type": "url",
+               "url": "http://kartagrada.ru/"
+            }, {
+               "date_added": "13180015830240714",
+               "id": "80",
+               "meta_info": {
+                  "Description": "карты, поиск, адреса, города"
+               },
+               "name": "2ГИС",
+               "type": "url",
+               "url": "http://2gis.ru/spb/"
+            }, {
+               "date_added": "13180015830246714",
+               "id": "81",
+               "meta_info": {
+                  "Description": "новости, погода, города, сибирь"
+               },
+               "name": "Новости погода работа - Сибнет",
+               "type": "url",
+               "url": "http://www.sibnet.ru/"
+            }, {
+               "date_added": "13180015830250714",
+               "id": "82",
+               "meta_info": {
+                  "Description": "регионы, новости, города"
+               },
+               "name": "Россия - Российская Федерация",
+               "type": "url",
+               "url": "http://www.bankgorodov.ru/"
+            } ],
+            "date_added": "13180015830230714",
+            "date_modified": "13180015830250714",
+            "id": "77",
+            "name": "Регионы",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13180015830261714",
+               "id": "84",
+               "meta_info": {
+                  "Description": "авиабилеты"
+               },
+               "name": "Qatar Airways",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/qatar"
+            }, {
+               "date_added": "13180015830267714",
+               "id": "85",
+               "meta_info": {
+                  "Description": "авиабилеты"
+               },
+               "name": "Etihad Airways",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/etihad"
+            }, {
+               "date_added": "13180015830271714",
+               "id": "86",
+               "meta_info": {
+                  "Description": "отдых, отели, гостиницы"
+               },
+               "name": "Trivago",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/trivago"
+            }, {
+               "date_added": "13180015830275714",
+               "id": "87",
+               "meta_info": {
+                  "Description": "отдых, жильё"
+               },
+               "name": "AirBnB",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/airbnb"
+            }, {
+               "date_added": "13180015830278714",
+               "id": "88",
+               "meta_info": {
+                  "Description": "туризм, аренда, автомобиль"
+               },
+               "name": "Rental Cars",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/rentalcars"
+            }, {
+               "date_added": "13180015830282714",
+               "id": "89",
+               "meta_info": {
+                  "Description": "билеты, авиа, поиск"
+               },
+               "name": "Dohop",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/dohop"
+            }, {
+               "date_added": "13180015830285714",
+               "id": "90",
+               "meta_info": {
+                  "Description": "отели, скидки, гостиницы"
+               },
+               "name": "Hotels.com – предложения и скидки при бронировании гостиниц",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/hotelscom"
+            }, {
+               "date_added": "13180015830313714",
+               "id": "91",
+               "meta_info": {
+                  "Description": "билеты, бронировать, авиа, жд"
+               },
+               "name": "Авиа и ЖД билеты онлайн.",
+               "type": "url",
+               "url": "http://www.tutu.ru/"
+            }, {
+               "date_added": "13180015830316714",
+               "id": "92",
+               "meta_info": {
+                  "Description": "природа, видео, фото, статьи"
+               },
+               "name": "National Geographic Россия",
+               "type": "url",
+               "url": "http://nat-geo.ru/"
+            }, {
+               "date_added": "13180015830321714",
+               "id": "93",
+               "meta_info": {
+                  "Description": "природа, туризм, видео, фото, отчёты"
+               },
+               "name": "Вокруг света - первый познавательный портал",
+               "type": "url",
+               "url": "http://www.vokrugsveta.ru/"
+            }, {
+               "date_added": "13180015830325714",
+               "id": "94",
+               "meta_info": {
+                  "Description": "отели, рейтинг, отзывы, гостиницы"
+               },
+               "name": "Рейтинг отелей и гостиниц мира",
+               "type": "url",
+               "url": "http://tophotels.ru/"
+            }, {
+               "date_added": "13180015830332714",
+               "id": "95",
+               "meta_info": {
+                  "Description": "билеты, бронировать, авиа"
+               },
+               "name": "Дешевые авиабилеты онлайн",
+               "type": "url",
+               "url": "http://www.aviasales.ru/"
+            }, {
+               "date_added": "13180015830335714",
+               "id": "96",
+               "meta_info": {
+                  "Description": "отзывы, туризм, путешествия"
+               },
+               "name": "ОТЗЫВ.Ру",
+               "type": "url",
+               "url": "http://www.otzyv.ru/"
+            }, {
+               "date_added": "13180015830339714",
+               "id": "97",
+               "meta_info": {
+                  "Description": "отдых, туризм, билеты, визы, путёвки"
+               },
+               "name": "TURIZM.RU",
+               "type": "url",
+               "url": "http://www.turizm.ru/"
+            } ],
+            "date_added": "13180015830258714",
+            "date_modified": "13180015830339714",
+            "id": "83",
+            "name": "Отдых",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13180015830346714",
+               "id": "99",
+               "meta_info": {
+                  "Description": "биржа, новости, котировки, инвестиции"
+               },
+               "name": "Финам.ru",
+               "type": "url",
+               "url": "http://www.finam.ru/"
+            }, {
+               "date_added": "13180015830350714",
+               "id": "100",
+               "meta_info": {
+                  "Description": "новости, акции, биржа, валюта"
+               },
+               "name": "РосБизнесКонсалтинг",
+               "type": "url",
+               "url": "http://www.rbc.ru/"
+            }, {
+               "date_added": "13180015830353714",
+               "id": "101",
+               "meta_info": {
+                  "Description": "новости, аналитика, прогнозы, бизнес"
+               },
+               "name": "ВЕДОМОСТИ",
+               "type": "url",
+               "url": "http://www.vedomosti.ru/"
+            }, {
+               "date_added": "13180015830357714",
+               "id": "102",
+               "meta_info": {
+                  "Description": "новости, финансы, аналитика"
+               },
+               "name": "Forbes.ru",
+               "type": "url",
+               "url": "http://www.forbes.ru/"
+            }, {
+               "date_added": "13180015830360714",
+               "id": "103",
+               "meta_info": {
+                  "Description": "банки, вклады, кредиты, рейтинг"
+               },
+               "name": "Банки.ру",
+               "type": "url",
+               "url": "http://www.banki.ru/"
+            }, {
+               "date_added": "13180015830363714",
+               "id": "104",
+               "meta_info": {
+                  "Description": "новости, акции, биржа, валюта, аналитика"
+               },
+               "name": "Mfd.ru",
+               "type": "url",
+               "url": "http://mfd.ru/"
+            }, {
+               "date_added": "13180015830367714",
+               "id": "105",
+               "meta_info": {
+                  "Description": "бухгалтерия, 1С, налоги, банки"
+               },
+               "name": "Клерк.Ру",
+               "type": "url",
+               "url": "http://www.klerk.ru/"
+            }, {
+               "date_added": "13180015830386714",
+               "id": "106",
+               "meta_info": {
+                  "Description": "бухгалтерия, 1С, налоги, банки"
+               },
+               "name": "Бухгалтерия",
+               "type": "url",
+               "url": "http://www.buhonline.ru/"
+            }, {
+               "date_added": "13180015830393714",
+               "id": "107",
+               "meta_info": {
+                  "Description": "экономика, новости, финансы, бизнес, аналитика"
+               },
+               "name": "ПРАЙМ",
+               "type": "url",
+               "url": "http://www.1prime.ru/"
+            }, {
+               "date_added": "13180015830398714",
+               "id": "108",
+               "meta_info": {
+                  "Description": "новости, бизнес, экономика, финансы"
+               },
+               "name": "BFM.RU",
+               "type": "url",
+               "url": "http://www.bfm.ru/"
+            } ],
+            "date_added": "13180015830343714",
+            "date_modified": "13180015830398714",
+            "id": "98",
+            "name": "Бизнес",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13180015830404714",
+               "id": "110",
+               "meta_info": {
+                  "Description": "кино, новости, рецензии, афиша"
+               },
+               "name": "КиноПоиск",
+               "type": "url",
+               "url": "http://www.kinopoisk.ru/"
+            }, {
+               "date_added": "13180015830409714",
+               "id": "111",
+               "meta_info": {
+                  "Description": "онлайн просмотр, кино, сериалы, видео"
+               },
+               "name": "IVI.ru",
+               "type": "url",
+               "url": "http://www.ivi.ru/"
+            }, {
+               "date_added": "13180015830412714",
+               "id": "112",
+               "meta_info": {
+                  "Description": "билеты, заказ, театры, развлечения, концерты"
+               },
+               "name": "KASSIR.RU",
+               "type": "url",
+               "url": "https://www.kassir.ru/"
+            }, {
+               "date_added": "13180015830416714",
+               "id": "113",
+               "meta_info": {
+                  "Description": "музыка, слушать, онлайн"
+               },
+               "name": "Last.fm",
+               "type": "url",
+               "url": "http://www.lastfm.ru/"
+            }, {
+               "date_added": "13180015830419714",
+               "id": "114",
+               "meta_info": {
+                  "Description": "онлайн просмотр, кино, сериалы, видео"
+               },
+               "name": "Zoomby.ru",
+               "type": "url",
+               "url": "http://www.zoomby.ru/"
+            }, {
+               "date_added": "13180015830422714",
+               "id": "115",
+               "meta_info": {
+                  "Description": "кино, новости, рецензии, афиша"
+               },
+               "name": "Кино-Театр.РУ",
+               "type": "url",
+               "url": "http://www.kino-teatr.ru/"
+            }, {
+               "date_added": "13180015830425714",
+               "id": "116",
+               "meta_info": {
+                  "Description": "стихи, поэзия, читать, онлайн"
+               },
+               "name": "Стихи.ру",
+               "type": "url",
+               "url": "http://www.stihi.ru/"
+            }, {
+               "date_added": "13180015830429714",
+               "id": "117",
+               "meta_info": {
+                  "Description": "проза, читать, онлайн"
+               },
+               "name": "Проза.ру",
+               "type": "url",
+               "url": "http://www.proza.ru/"
+            }, {
+               "date_added": "13180015830432714",
+               "id": "118",
+               "meta_info": {
+                  "Description": "библиотека, читать, онлайн, книги"
+               },
+               "name": "Lib.Ru",
+               "type": "url",
+               "url": "http://lib.ru/"
+            }, {
+               "date_added": "13180015830435714",
+               "id": "119",
+               "meta_info": {
+                  "Description": "кино, новости, рецензии, афиша"
+               },
+               "name": "KINOMANIA.RU",
+               "type": "url",
+               "url": "http://www.kinomania.ru/"
+            } ],
+            "date_added": "13180015830401714",
+            "date_modified": "13180015830435714",
+            "id": "109",
+            "name": "Развлечения",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13180015830442714",
+               "id": "121",
+               "meta_info": {
+                  "Description": "портал, новости, погода, почта"
+               },
+               "name": "Рамблер",
+               "type": "url",
+               "url": "http://www.rambler.ru/"
+            }, {
+               "date_added": "13180015830444714",
+               "id": "122",
+               "meta_info": {
+                  "Description": "видео, онлайн, просмотр"
+               },
+               "name": "YouTube",
+               "type": "url",
+               "url": "http://www.youtube.com/"
+            }, {
+               "date_added": "13180015830447714",
+               "id": "123",
+               "meta_info": {
+                  "Description": "фото, коллекции, альбомы, онлайн"
+               },
+               "name": "Instagram",
+               "type": "url",
+               "url": "https://instagram.com/"
+            }, {
+               "date_added": "13180015830450714",
+               "id": "124",
+               "meta_info": {
+                  "Description": "новости, газета, портал"
+               },
+               "name": "МК",
+               "type": "url",
+               "url": "http://www.mk.ru/"
+            }, {
+               "date_added": "13180015830454714",
+               "id": "125",
+               "meta_info": {
+                  "Description": "погода, прогноз, онлайн"
+               },
+               "name": "GISMETEO.RU",
+               "type": "url",
+               "url": "http://www.gismeteo.ru/"
+            } ],
+            "date_added": "13180015830439714",
+            "date_modified": "13180015830454714",
+            "id": "120",
+            "name": "Порталы",
+            "type": "folder"
+         } ],
+         "date_added": "13180015774894714",
+         "date_modified": "13180015830440714",
+         "id": "1",
+         "name": "Закладки",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13180015774894714",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Другие закладки",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13180015774894714",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Закладки на мобильном",
+         "type": "folder"
+      },
+      "trash": {
+         "children": [  ],
+         "date_added": "13180015774894714",
+         "date_modified": "0",
+         "id": "4",
+         "name": "Корзина",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
