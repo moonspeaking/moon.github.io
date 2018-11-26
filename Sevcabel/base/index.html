@@ -1,0 +1,85 @@
+﻿<!DOCTYPE html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="images/favicon.ico">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+    <title>IBP</title>
+  </head>
+
+  <body>
+    <div class="form-group">
+        <input type="text" class="form-control pull-right" id="search" placeholder="Поиск по таблице">
+    </div>
+	    <table class="table table-striped" id="mytable" cellspacing="0" style="width: 100%;">
+        <thead>
+            <tr role="row">
+                <th>Название</th>                            
+                <th>Автор</th>                            
+                <th>Дата</th>
+                <th>Просмотры</th>
+                <th>Категория</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>jQuery, стилизация полей ввода с помощью fancyInput</td>
+                <td>Алиса</td>
+                <td>3 ноября 2016 г.</td>
+                <td>34</td>
+                <td>jQuery</td>
+            </tr>
+            <tr>
+                <td>JQuery email autocomplete. Автозавершение электронной почты в форме</td>
+                <td>Алиса</td>
+                <td>25 августа 2016 г.</td>
+                <td>56</td>
+                <td>jQuery</td>
+            </tr>
+            <tr>
+                <td>Проверка надежности пароля с помощью jQuery</td>
+                <td>Алиса</td>
+                <td>18 августа 2016 г.</td>
+                <td>68</td>
+                <td>jQuery</td>
+            </tr>
+            <tr>
+                <td>Прогресс бар прокрутки страницы</td>
+                <td>Алиса</td>
+                <td>12 августа 2016 г.</td>
+                <td>99</td>
+                <td>jQuery</td>
+            </tr>
+            <tr>
+                <td>Вывод превью изображений перед загрузкой с помощью JavaScript и HTML5 FileReader()</td>
+                <td>Алиса</td>
+                <td>16 июня 2016 г.</td>
+                <td>99</td>
+                <td>jQuery</td>
+            </tr>
+        </tbody>
+    </table>
+	
+	    <script>
+    $(document).ready(function(){
+        $("#search").keyup(function(){
+        _this = this;
+        
+        $.each($("#mytable tbody tr"), function() {
+            if($(this).text().toLowerCase().indexOf($(_this).val().toLowerCase()) === -1) {
+                $(this).hide();
+            } else {
+                $(this).show();                
+            });
+        });
+    });
+    </script>
+	
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+		<div id="scrollup"></div>
+	<script src="js/up.js"></script>	
+	
+  </body>
+</html>
