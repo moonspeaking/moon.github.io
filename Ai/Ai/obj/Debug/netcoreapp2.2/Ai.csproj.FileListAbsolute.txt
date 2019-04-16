@@ -1,0 +1,8 @@
+C:\Users\Moon\Desktop\Ai\Ai\bin\Debug\netcoreapp2.2\Ai.deps.json
+C:\Users\Moon\Desktop\Ai\Ai\bin\Debug\netcoreapp2.2\Ai.runtimeconfig.json
+C:\Users\Moon\Desktop\Ai\Ai\bin\Debug\netcoreapp2.2\Ai.runtimeconfig.dev.json
+C:\Users\Moon\Desktop\Ai\Ai\bin\Debug\netcoreapp2.2\Ai.dll
+C:\Users\Moon\Desktop\Ai\Ai\obj\Debug\netcoreapp2.2\Ai.csprojAssemblyReference.cache
+C:\Users\Moon\Desktop\Ai\Ai\obj\Debug\netcoreapp2.2\Ai.csproj.CoreCompileInputs.cache
+C:\Users\Moon\Desktop\Ai\Ai\obj\Debug\netcoreapp2.2\Ai.AssemblyInfoInputs.cache
+C:\Users\Moon\Desktop\Ai\Ai\obj\Debug\netcoreapp2.2\Ai.AssemblyInfo.cs
