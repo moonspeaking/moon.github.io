@@ -1,8 +1,0 @@
-{
-  "name": "Telephone-Directory",
-  "main": "index.html",
-  "window": {
-    "title": "Telephone Directory",
-    "toolbar": false
-  }
-}
