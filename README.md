@@ -10,3 +10,5 @@ https://moonspeaking.github.io/Fireworks/moon.html    Фейерверк
 https://moonspeaking.github.io/moon%20gallery/moon.html Фейерверк 3D
 
 https://moonspeaking.github.io/Smooth%20scrollIng/moon.html Плавная прокрутка 
+
+https://moonspeaking.github.io/duck-hunter.css/assets/index.html Утка Охота 
